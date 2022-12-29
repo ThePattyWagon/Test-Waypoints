@@ -1,0 +1,22 @@
+{
+  "id": "Mining-Base-Camp_-14643-17-5764",
+  "name": "Mining Base Camp",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--14356919-waypoint-icon.png",
+  "x": -14643,
+  "y": -17,
+  "z": -5764,
+  "r": 36,
+  "g": 238,
+  "b": 73,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
