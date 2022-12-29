@@ -1,0 +1,22 @@
+{
+  "id": "Cave-System_-15369-59-5133",
+  "name": "Cave System",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5921110-waypoint-icon.png",
+  "x": -15369,
+  "y": -59,
+  "z": -5133,
+  "r": 165,
+  "g": 166,
+  "b": 170,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
