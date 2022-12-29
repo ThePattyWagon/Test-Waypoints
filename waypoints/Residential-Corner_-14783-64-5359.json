@@ -1,0 +1,22 @@
+{
+  "id": "Residential-Corner_-14783-64-5359",
+  "name": "Residential Corner",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--14395410-waypoint-icon.png",
+  "x": -14783,
+  "y": 64,
+  "z": -5359,
+  "r": 36,
+  "g": 87,
+  "b": 238,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

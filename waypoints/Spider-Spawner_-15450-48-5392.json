@@ -1,0 +1,22 @@
+{
+  "id": "Spider-Spawner_-15450-48-5392",
+  "name": "Spider Spawner",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5773916-waypoint-icon.png",
+  "x": -15450,
+  "y": -48,
+  "z": -5392,
+  "r": 167,
+  "g": 229,
+  "b": 164,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
